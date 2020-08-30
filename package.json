@@ -1,0 +1,19 @@
+{
+  "name": "tree-trait",
+  "version": "0.0.0",
+  "description": "Add tree utilities to other elements",
+  "main": "tree-trait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/tree-trait.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/tree-trait/issues"
+  },
+  "homepage": "https://github.com/bahrus/tree-trait#readme"
+}
